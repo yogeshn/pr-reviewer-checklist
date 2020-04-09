@@ -1,5 +1,5 @@
 ## Pull request review workflow
-
+ 
 - [ ] Review the PR ASAP after being allocated to it.
 - [ ] Run code and use it as the end user would. Double check requests in feature’s description.
 - [ ] After exploring feature from your own expectations, review the "QA checklist" created by the feature’s developer in the feature card. Work on whatever hasn’t been covered. 
